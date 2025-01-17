@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Priscila Lopes 
+- 👋 Hi, I’m Priscila  
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning CSS3
 - 💞️ I’m looking to collaborate on Web Design
-- 📫 How to reach me prscilalopessoares357@gmail.com
+  
 
 <!---
 srtaBoring/srtaBoring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
